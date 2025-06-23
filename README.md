@@ -70,10 +70,3 @@ php spark serve
 ```
 
 - Buka [http://localhost:8080](http://localhost:8080)
-- Login dengan kredensial `superadmin` berikut:
-
-```txt
-username : superadmin
-email    : superadmin@admin.com
-password : superadmin
-```
